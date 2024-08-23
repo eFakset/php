@@ -1,0 +1,133 @@
+body
+{
+	font-family: Arial, Verdana
+    ;background-color : #FFFFCC
+    ;color : #000000
+}
+ 
+table.anetavle
+{
+	font-family: Arial, Verdana
+    ;font-size: 75%
+    ;color : #000000
+    ;border: 1px solid black
+}
+
+td.anetavle
+{
+    ;border: 1px solid black
+}
+
+table.ddislekta
+{
+	font-family: Arial, Verdana
+    ;font-size: 75%
+    ;color : #000000
+}
+
+h3.anetavle, a.anetavle, div.anetavle
+{
+    ;font-size: 75%
+}
+
+td.menypunkt
+{
+	font-family: Arial, Verdana
+    ;font-size: 75%
+    ;font-weight: bold
+    ;background-color : #006699
+    ;color : #ffffff
+    ;border-style: outset
+    ;border-color: #006699
+}
+
+td.menypunktValgt
+{
+	font-family: Arial, Verdana
+    ;font-size: 75%
+    ;font-weight: bold
+    ;background-color : #3399CC
+    ;color : #ffffff
+    ;border-style: inset
+    ;border-color: #3399CC
+}
+
+td.punktliste
+{
+	font-family: Arial, Verdana
+    ;font-size: 75%
+    ;background-color : #FFFFCC
+    ;color : #000000
+}
+
+a:link
+{
+    background-color : #FFFFCC
+  	;color: #000099
+    ;text-decoration: none
+  	;font-family: Arial, Verdana
+}
+a:visited
+{
+    background-color : #FFFFCC
+  	;color: #000099
+    ;text-decoration: none
+}
+a:hover
+{
+    background-color : #FFFFCC
+  	;color: #006699
+    ;text-decoration: none
+}
+
+a.menypunkt:visited
+{
+    background-color : #006699
+    ;color: #ffffff
+}
+
+a.menypunkt:link
+{
+    background-color : #006699
+    ;color: #ffffff
+}
+
+td.nyhet
+{
+    font-size: 75%
+}
+
+a.nyhet:link
+{
+    color: #000099
+}
+
+a.nyhet:visited
+{
+	color: #9999FF
+}
+
+a.nyhet:hover
+{
+	color: #000099
+}
+
+div.linkfarm
+{
+    font-size: 75%
+  	;color: #000099
+}
+
+div.loggsoek
+{
+    font-size: 75%
+  	;color: #000000
+}
+
+input.listeknapp 
+{
+	text-align:center
+	;width:120px
+	;height: 30px
+}
+

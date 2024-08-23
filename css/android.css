@@ -1,0 +1,36 @@
+td.menypunkt
+{
+    font-size: 100%
+}
+
+td.menypunktValgt
+{
+    font-size: 100%
+}
+
+td.punktliste
+{
+    font-size: 100%
+}
+
+table.ddislekta
+{
+	font-size: 100%
+    ;color : #000000
+}
+
+td.nyhet
+{
+	color: #000000
+    ;font-size: 100%
+}
+
+div.linkfarm
+{
+    font-size: 100%
+}
+
+input.listeknapp
+{
+	width:120px;
+}

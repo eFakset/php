@@ -1,0 +1,270 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 LANG Norwegian
+1 SOUR FAKS
+2 NAME Ellen Faksets demo
+2 VERS 2.8
+1 DATE 23.8.2024
+0 @I1@ INDI
+1 NAME Elisabeth /Tudor, I/
+1 SEX F
+1 CATG 2
+1 BIRT
+2 DATE 07.09.1533
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Elizabeth_I
+1 DEAT
+2 DATE 24.03.1603 (69 år)
+0 @I2@ INDI
+1 NAME Henry /Tudor, VIII/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 28.06.1491
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Henry_VIII
+1 DEAT
+2 DATE 28.01.1547 (55 år)
+0 @I3@ INDI
+1 NAME Anne /Boleyn/
+1 SEX F
+1 CATG 1
+1 BIRT
+2 DATE ca 1501
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Anne_Boleyn
+1 DEAT
+2 DATE 19.05.1536 (ca 35 år)
+0 @I4@ INDI
+1 NAME Henry /Tudor, VII/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 28.01.1457
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Henry_VII_of_England
+0 @I5@ INDI
+1 NAME Elizabeth /York/
+1 SEX F
+1 CATG 1
+1 BIRT
+2 DATE 11.02.1466
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Elizabeth_of_York
+1 DEAT
+2 DATE 11.02.1503 (37 år)
+0 @I6@ INDI
+1 NAME Elizabeth /Woodville/
+1 SEX F
+1 CATG 1
+1 BIRT
+2 DATE ca. 1437
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Elizabeth_Woodville
+1 DEAT
+2 DATE 08.06.1492 (ca 55 år)
+0 @I7@ INDI
+1 NAME Edward /Plantagenet, IV, Duke of York/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 28.04.1442
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Edward_IV_of_England
+1 DEAT
+2 DATE 09.04.1483 (40 år)
+0 @I8@ INDI
+1 NAME Richard /Plantagenet, Duke of York/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 21.09.1411
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Richard_of_York,_3rd_Duke_of_York
+1 DEAT
+2 DATE 30.12.1460 (49 år)
+0 @I9@ INDI
+1 NAME Cecily /Neville/
+1 SEX F
+1 CATG 1
+1 BIRT
+2 DATE 03.05.1415
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Cecily_Neville,_Duchess_of_York
+1 DEAT
+2 DATE 31.05.1495 (80 år)
+0 @I10@ INDI
+1 NAME George /Plantagenet, Duke of Clarence/
+1 SEX M
+1 CATG 2
+1 BIRT
+2 DATE 21.10.1449
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/George_Plantagenet,_1st_Duke_of_Clarence
+1 DEAT
+2 DATE 18.02.1478 (28 år)
+0 @I11@ INDI
+1 NAME Richard /Plantagenet, III/
+1 SEX M
+1 CATG 2
+1 BIRT
+2 DATE 02.10.1452
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Richard_III_of_England
+1 DEAT
+2 DATE 22.08.1485 (32 år)
+0 @I12@ INDI
+1 NAME Richard /Neville, Earl of Warwick/
+1 SEX M
+1 CATG 5
+1 BIRT
+2 DATE 22.11.1428
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Richard_Neville,_16th_Earl_of_Warwick
+1 DEAT
+2 DATE 14.04.1471 (42 år)
+0 @I13@ INDI
+1 NAME Isabel /Neville, Duchess of Clarence/
+1 SEX F
+1 CATG 4
+1 BIRT
+2 DATE 05.09.1451
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Isabel_Neville,_Duchess_of_Clarence
+1 DEAT
+2 DATE 22.12.1476 (25 år)
+0 @I14@ INDI
+1 NAME Anne /Beauchamp/
+1 SEX F
+1 CATG 5
+1 BIRT
+2 DATE 13.07.1426
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Anne_Beauchamp,_16th_Countess_of_Warwick
+1 DEAT
+2 DATE 20.09.1492 (66 år)
+0 @I15@ INDI
+1 NAME Anne /Neville/
+1 SEX F
+1 CATG 4
+1 BIRT
+2 DATE 11.06.1456
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Anne_Neville
+1 DEAT
+2 DATE 16.03.1485 (28 år)
+0 @I16@ INDI
+1 NAME Henry /?, VI/
+1 SEX M
+1 CATG 4
+1 BIRT
+2 DATE 06.12.1421
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Henry_VI_of_England
+1 DEAT
+2 DATE 21.05.1471 (49 år)
+0 @I17@ INDI
+1 NAME Henry /of Monmouth, V/
+1 SEX M
+1 CATG 4
+1 BIRT
+2 DATE 16.09.1386
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Henry_V_of_England
+1 DEAT
+2 DATE 31.08.1422 (35 år)
+0 @I18@ INDI
+1 NAME Catherine /of Valois/
+1 SEX F
+1 CATG 5
+1 BIRT
+2 DATE 27.10.1401
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Catherine_of_Valois
+1 DEAT
+2 DATE 03.01.1437 (35 år)
+0 @I19@ INDI
+1 NAME Henry /Bolingbroke, IV/
+1 SEX M
+1 CATG 4
+1 BIRT
+2 DATE 04.1367
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Henry_IV_of_England
+1 DEAT
+2 DATE 20.03.1413 (ca 46 år)
+0 @I20@ INDI
+1 NAME John /of Gaunt/
+1 SEX M
+1 CATG 2
+1 BIRT
+2 DATE 06.03.1340
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/John_of_Gaunt
+1 DEAT
+2 DATE 03.02.1399 (58 år)
+0 @I21@ INDI
+1 NAME Edward /of Windsor, III/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 13.11.1312
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Edward_III_of_England
+0 @I22@ INDI
+1 NAME Richard /of Conisburgh/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 07.1385
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge
+0 @I23@ INDI
+1 NAME Edmund /of Langley/
+1 SEX M
+1 CATG 1
+1 BIRT
+2 DATE 05.06.1341
+2 SOUR @S1101@ https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York
+1 DEAT
+2 DATE 01.08.1402 (61 år)
+0 @F0@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+0 @F2@ FAM
+1 HUSB @I7@
+1 WIFE @I6@
+1 CHIL @I5@
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I7@
+1 CHIL @I10@
+1 CHIL @I11@
+0 @F4@ FAM
+1 HUSB @I22@
+1 CHIL @I8@
+0 @F5@ FAM
+1 HUSB @I12@
+1 WIFE @I14@
+1 CHIL @I13@
+1 CHIL @I15@
+1 MARR
+2 DATE 1449
+0 @F6@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I16@
+1 MARR
+2 DATE 1420
+0 @F7@ FAM
+1 HUSB @I19@
+1 CHIL @I17@
+0 @F8@ FAM
+1 HUSB @I20@
+1 CHIL @I19@
+0 @F9@ FAM
+1 HUSB @I21@
+1 CHIL @I20@
+1 CHIL @I23@
+0 @F10@ FAM
+1 HUSB @I23@
+1 CHIL @I22@
+0 @F11@ FAM
+1 HUSB @I10@
+1 WIFE @I13@
+1 MARR
+0 @F12@ FAM
+1 HUSB @I11@
+1 WIFE @I15@
+1 MARR
+2 DATE 1472
+0 @S1101@ SOUR
+1 TITL Wikipedia
+0 TRLR
