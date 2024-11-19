@@ -20,7 +20,6 @@ define("GED_PLACE", "PLAC");
 define("GED_CONTINUED", "CONT");
 define("GED_CONTINUED2", "CONC");
 define("ANCESTRY_CATEGORY", "CATG");
-define("HISTREG_ID", "HIST");
 
 define("CONST_WORK_NOTE", "WORK");
 define("MAX_DESC_LEVELS", 4);

@@ -15,7 +15,7 @@ else
 
     $servername = "localhost";
     $username = "root";
-    $password = "slekt";
+    $password = "xxxxxxxx";
     $dbname = "slekt";
 
     // Create connection

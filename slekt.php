@@ -1,17 +1,15 @@
 <?php
-    include "utils.inc";
-    include "constants.inc";
-    include "item.inc";
-    include "person_images_" . $projectid . ".inc";
-    include "slekt_provider.inc";
+    include "include/utils.php";
+    include "include/constants.php";
+    include "include/item.php";
+    include "include/person_images_" . $projectid . ".php";
+    include "include/slekt_provider.php";
 
     require ("slekt_topp.php");
 
     $pagename = "slekt_" . $projectid . ".php";
     $favicon = "slekt.ico";
-    require ("topp.php");
 ?>
-	<td valign=top height="70%">
 		<table class=anetavle width="100%">
 			<tr height="100">
 				<td class=anetavle width="32%">
@@ -27,7 +25,7 @@
 <?php
     $mother_id = $person->get_mother_id();
     if ($mother_id == NULL)
-	    echo "&nbsp";
+	    echo "&nbsp;";
     else
     	echo format_person($provider, $mother_id, $pagename, HORIZONTAL);
 ?>
@@ -54,10 +52,6 @@
 				<td class=anetavle align="center" width="50%" colspan="2">
 <?php
 
-	$histreg_id = $person->get_histregid();
-	if ($histreg_id)
-		echo format_person($provider, $currentpersonid, $histreg_id, HORIZONTAL);
-	else
 		echo format_person($provider, $currentpersonid, $pagename, HORIZONTAL);
 ?>
 				</td>
@@ -156,10 +150,6 @@ Del av personnavn: <input type="text" name="personnavn">
 </div>
 </form>
 
-</td>
 <!--  Body slutt -->
-</tr>
-</table>
-<!-- Ytre tabell slutt -->
 </body>
 </html>

@@ -37,7 +37,6 @@ class Person extends RootItem
     var $firstname;
     var $lastname;
     var $gender;
-    var $histregid;
     var $ancestry_category;
     var $birth;
     var $death;
@@ -52,9 +51,6 @@ class Person extends RootItem
 
         $pos = strpos($name, "/");
         $firstname = substr($name, 0, $pos);
-        $firstname = str_replace("XX","<u>",$firstname);
-        $firstname = str_replace("YY","</u>",$firstname);
-
         $lastname = substr($name, $pos + 1, strlen($name) - ($pos + 2));
 
         $this->firstname = $firstname;
@@ -64,16 +60,6 @@ class Person extends RootItem
         
         $this->birth = new Event(-1, NULL);
         $this->death = new Event(-1, NULL);
-    }
-
-    function set_histregid($histregid)
-    {
-    	$this->histregid = $histregid;
-    }
-
-    function get_histregid()
-    {
-    	return $this->histregid;
     }
 
     function set_gender($gender)
@@ -125,7 +111,6 @@ class Person extends RootItem
     function set_death($death)
     {
     	$this->death = $death;
-//echo $this->name . $this->death->get_date() . "<br>";
     }
 
     function get_death()
